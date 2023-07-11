@@ -13,5 +13,4 @@ public class RootController {
         return "hi!";
     }
 
-    public String temp(){return "s";}
 }
