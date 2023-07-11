@@ -12,4 +12,6 @@ public class RootController {
     public String tempAPi(){
         return "hi!";
     }
+
+    public String temp(){return "s";}
 }
